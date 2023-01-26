@@ -8,6 +8,7 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
  * modified by Jaskaran
+ * Fetch + merge
  */
 public class CardTrick {
     
